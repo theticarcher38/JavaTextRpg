@@ -1,7 +1,7 @@
 /**
  * @Author: Hunter Goodman
  * @Date: 17-10-2020
- * @version: 1.0-ALPHA (Under Development)
+ * @Version: 1.0-ALPHA (Under Development)
  * 
  * Description: A simple text-based role-playing game
  * where I can utilize my the knowledge I have learned
